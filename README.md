@@ -5,7 +5,6 @@
 - 🎯 **Goal:** Aspiring **Red Teamer** & Penetration Tester
 - 🔍 **Focus:** Offensive Security, Vulnerability Research, and Adversary Emulation
 
-![My Skills](https://skillicons.dev/icons?i=py,linux,kali,html,css)
 
 ---
 
@@ -31,3 +30,4 @@ I am an aspiring security enthusiast. All projects and code shared here are for 
 *"In security, we don't fix bugs; we fix mindsets."*
 
 مشد
+![My Skills](https://skillicons.dev/icons?i=py,linux,kali,html,css)
