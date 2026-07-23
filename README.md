@@ -17,9 +17,8 @@
 Currently diving deep into network protocol analysis and scripting security tools. Always eager to learn and explore new offensive techniques.
 
 ### 🔗 Connect with me
-- GitHub: [AmiraliBahadivand](https://github.com/AmiraliBahadivand)
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
+- telegram: [@Amirali_Bahadivand]
+- Email: [amirx239b@gmail.com]
 
 ### ⚠️ Disclaimer
 I am an aspiring security enthusiast. All projects and code shared here are for **educational purposes only**. I do not endorse or participate in any illegal activities. Security research must always be conducted ethically and responsibly.
