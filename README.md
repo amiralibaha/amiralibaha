@@ -29,5 +29,5 @@ I am an aspiring security enthusiast. All projects and code shared here are for 
 ### 💡 Quote
 *"In security, we don't fix bugs; we fix mindsets."*
 
-مشد
-![My Skills](https://skillicons.dev/icons?i=py,linux,kali,html,css)
+
+![My Skills]:(https://skillicons.dev/icons?i=py,linux,kali,html,css)
